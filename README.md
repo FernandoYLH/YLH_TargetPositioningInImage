@@ -3,6 +3,11 @@
 Some python code are provided. <br>
 Run the code "YLH_ObjDet.py" in your Python interface by:<br>
 python YLH_ObjDet.py image1.jpg image2.jpg
+
+The test results are shown below <br>
+![image1](http://www.baidu.com/img/bdlogo.gif)
+![image2](http://www.baidu.com/img/bdlogo.gif)
+![image_Out](http://www.baidu.com/img/bdlogo.gif)
 ## Approach evaluation
 
 The task achieved from the method of these code is to utilize Aircv target location method based on the python-opencv2 to search or match the location of the given image (the target image) in a large background picture. An intuitive understanding is template matching.
