@@ -1,6 +1,8 @@
 # YLH_TargetPositioningInImage
 ## Target Positioning In an Image
-Some python code are provided. 
+Some python code are provided. <br>
+Run the code "YLH_ObjDet.py" in your Python interface by:<br>
+python YLH_ObjDet.py image1.jpg image2.jpg
 ## Approach evaluation
 
 The task achieved from the method of these code is to utilize Aircv target location method based on the python-opencv2 to search or match the location of the given image (the target image) in a large background picture. An intuitive understanding is template matching.
